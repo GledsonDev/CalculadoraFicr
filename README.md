@@ -2,6 +2,7 @@
 Atividade realizada em equipe, onde desenvolvemos uma calculadora de utilidades em Java para a execução de testes unitários de software.
 
 Grupo: Alícia Vital, Gledson Pessoa, Juan Victor, Luiz Miguel e Rodrigo Albuquerque
+Teste - Manutenção e Análise de Sistemas - 3º Período FICR Manhã
 
 Casos de Uso
 <pre>
