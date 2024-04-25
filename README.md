@@ -4,7 +4,7 @@ Atividade realizada em equipe, onde desenvolvemos uma calculadora de utilidades 
 Grupo: Alícia Vital, Gledson Pessoa, Juan Victor, Luiz Miguel e Rodrigo Albuquerque
 
 Casos de Uso
-
+<pre>
 1 - Calcular soma de valores
 Ator: Usuário do programa
 1 - Usuário acessa o programa
@@ -104,3 +104,4 @@ Ator: Usuário do programa
 2 - Usuário digita a opção da operação de Impar ou Par
 3 - Usuário digita o número
 4 - Usuário recebe o resultado
+  </pre>
