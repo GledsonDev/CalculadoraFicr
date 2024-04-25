@@ -4,7 +4,7 @@ Atividade realizada em equipe, onde desenvolvemos uma calculadora de utilidades 
 Grupo: Alícia Vital, Gledson Pessoa, Juan Victor, Luiz Miguel e Rodrigo Albuquerque <br />
 Teste - Manutenção e Análise de Sistemas - 3º Período FICR Manhã
 
-Casos de Uso
+Histórias de Usuário
 <pre>
 1 - Calcular soma de valores
 Ator: Usuário do programa
