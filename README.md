@@ -6,10 +6,10 @@ Teste - Manutenção e Análise de Sistemas - 3º Período FICR Manhã
 
 Histórias de Usuário
 <pre>
-Como usuário, desejo ter uma calculadora funcional para realizar operações de uma calculadora científica, como adição, 
-subtração, multiplicação, divisão, potenciação, radiciação, porcentagem e juros simples.
-E extras como área do círculo, área do triângulo, converter a temperatura de Celsius para Fahrenheit e vice-versa e 
-determinar se o número é impar ou par.
+Como usuário, desejo ter uma calculadora funcional para realizar operações de uma calculadora científica, 
+como adição, subtração, multiplicação, divisão, potenciação, radiciação, porcentagem e juros simples.
+E extras como área do círculo, área do triângulo, converter a temperatura de Celsius para Fahrenheit 
+e vice-versa e determinar se o número é impar ou par.
 A calculadora deve ser fácil de usar, intuitiva e precisa.
 
 Critérios de Aceitação:
@@ -76,8 +76,8 @@ Ator: Usuário do programa
 4 - Usuário recebe o resultado
 
 7 - Calcular porcentagem de valores
-Como usuário do programa, eu quero calcular a porcentagem de valores, para obter o valor final de um número, de acordo com a 
-porcentagem do valor total
+Como usuário do programa, eu quero calcular a porcentagem de valores, para obter o valor final de um número, 
+de acordo com a porcentagem do valor total
 Ator: Usuário do programa
 1 - Usuário acessa o programa
 2 - Usuário digita a opção da operação de porcentagem
@@ -113,8 +113,8 @@ Ator: Usuário do programa
 5 - Usuário recebe o resultado
 
 11 - Converter a temperatura de Celsius para Fahrenheit
-Como usuário do programa, eu quero transformar o valor da temperatura em celsius para fahrenheit, para obter o valor da 
-temperatura em fahrenheit
+Como usuário do programa, eu quero transformar o valor da temperatura em celsius para fahrenheit, para obter 
+o valor da temperatura em fahrenheit
 Ator: Usuário do programa
 1 - Usuário acessa o programa
 2 - Usuário digita a opção da operação de Celsius para Fahrenheit
@@ -122,8 +122,8 @@ Ator: Usuário do programa
 4 - Usuário recebe o resultado
 
 12 - Converter a temperatura de Fahrenheit para Celsius
-Como usuário do programa, eu quero transformar o valor da temperatura em fahrenheit para celsius, para obter o valor da 
-temperatura em celsius
+Como usuário do programa, eu quero transformar o valor da temperatura em fahrenheit para celsius, para obter 
+o valor da temperatura em celsius
 Ator: Usuário do programa
 1 - Usuário acessa o programa
 2 - Usuário digita a opção da operação de Fahrenheit para Celsius
